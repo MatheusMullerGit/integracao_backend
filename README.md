@@ -102,14 +102,20 @@ pip install  -r requirements.txt
 Ao executar o comando acima, será feita a instalação das seguintes bibliotecas:
 
 ```
-certifi==2020.6.20
-chardet==3.0.4
-idna==2.10
-python-dateutil==2.8.1
-pytz==2020.1
-requests==2.24.0
+cffi==1.14.3
+click==7.1.2
+cryptography==3.2.1
+Flask==1.1.2
+itsdangerous==1.1.0
+Jinja2==2.11.2
+jwt==1.1.0
+MarkupSafe==1.1.1
+psycopg2==2.8.6
+pycparser==2.20
+PyJWT==1.7.1
+PyMySQL==0.10.1
 six==1.15.0
-urllib3==1.25.10
+Werkzeug==1.0.1
 ```
 
 Executar o main.py no cmd com o comando:
